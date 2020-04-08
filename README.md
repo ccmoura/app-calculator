@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to e app-calculator    👋</h1>
 
-Simple calculator in react-native   
+### Simple calculator in react-native   
 
 <p>
   <img width="270" height="480" alt="Version" src="./images/screen.png" />
