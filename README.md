@@ -1,9 +1,4 @@
 <h1 align="center">Welcome to e app-calculator    👋</h1>
-<p>
-  <a href="https://www.npmjs.com/package/e app-calculator   " target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/e app-calculator   .svg">
-  </a>
-</p>
 
 > Simple calculator in react-native   
 
